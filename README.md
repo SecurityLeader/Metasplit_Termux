@@ -2,7 +2,7 @@
 
 Script for automatic installation of Metasploit in Thermux 
 
-git clone https://github.com/SecurityLeader/Metaspli_Termux
+git clone https://github.com/SecurityLeader/Metasplit_Termux
 
 cd Metasplit_Termux
 
